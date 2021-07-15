@@ -4,4 +4,4 @@ The project contains assignments throughout the semester that would lead to a po
 
 This was a collaboration with other students Ole and Josh.
 
-Grade - A
+Grade: A
